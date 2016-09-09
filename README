@@ -1,1 +1,7 @@
-Testing
+Tarea 1 [INF-578] Maquinas de Aprendizaje
+
+- /code: se encuentra un respaldo del código utilizado
+- /report: se encuentran los jupyter notebook que corresponden al informe. 
+  El código podría requerir que los dataset se encuentren en la misma carpeta.
+- /slides: la presentación. Requiere RISE (https://github.com/damianavila/RISE) para su correcta visualización
+- /data: Datasets. Solo incluido prostate.data por temas de pesos de archivo.
